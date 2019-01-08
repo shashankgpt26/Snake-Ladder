@@ -10,5 +10,4 @@ It contains main.cpp file which contains the code. You can build this code in an
 In Linux :
 1. Install GCC compiler from command line.
 2. Go to the directory in which you have saved the code.
-3. Compile with g++ -o output main.cpp and then ./output to execute the code.
-g++ -o output main.cpp
+3. Compile with **g++ -o output main.cpp** and then **./output** to execute the code.
